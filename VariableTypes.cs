@@ -1,5 +1,14 @@
-﻿namespace knightmoves;
+namespace knightmoves;
 public class VariableTypes
 {   
-    // Add your code here
+    public string AnimalName = "dog";
+
+    public char GradeLetter = 'A';
+
+    public int Year = 2026;
+
+    public double Height = 6.2;
+
+    public bool IsIndoorPet = true;
+    
 }
